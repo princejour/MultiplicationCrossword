@@ -1,4 +1,4 @@
-name: Build APK from ZIP
+name: Build Multiplication Crossword APK
 
 on:
   workflow_dispatch:
